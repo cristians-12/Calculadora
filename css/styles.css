@@ -9,9 +9,9 @@ body{
     background-color: #0b172c;
 }
 
-.container{
+.container-fluid{
     background: linear-gradient(to right, #084c4e, #3b6444);
-    border: 1px solid cornflowerblue;
+    /* border: 1px solid cornflowerblue; */
 }
 .resultado{
     background-color: black;
